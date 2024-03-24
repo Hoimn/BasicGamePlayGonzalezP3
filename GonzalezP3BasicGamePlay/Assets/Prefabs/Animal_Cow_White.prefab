@@ -1752,7 +1752,7 @@ GameObject:
   - component: {fileID: 5553911809652873638}
   m_Layer: 0
   m_Name: Animal_Cow_White
-  m_TagString: Untagged
+  m_TagString: Animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

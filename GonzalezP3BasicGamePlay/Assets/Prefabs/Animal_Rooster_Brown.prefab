@@ -279,7 +279,7 @@ GameObject:
   - component: {fileID: 8960986499321570409}
   m_Layer: 0
   m_Name: Animal_Rooster_Brown
-  m_TagString: Untagged
+  m_TagString: Animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
